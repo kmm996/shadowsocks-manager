@@ -47,7 +47,7 @@ app
         content: ' ',
       }, {
         icon: 'build',
-        title: '便捷',
+        title: '方捷',
         content: ' ',
       }, {
         icon: 'vpn_key',
